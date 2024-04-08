@@ -6,5 +6,6 @@ public class HW1 {
         String s = sc.nextLine();
         Integer x = Integer.parseInt(s);
         System.out.print(x);
+        //Meri sodsfadsffafsf
     }
 }
